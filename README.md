@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently learning Full Stack Web Development at **Bloom Institute of Technology**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 My work in progress Portfolio Website [https://josephfantuzzi.netlify.app/](https://josephfantuzzi.netlify.app/)
 
 - 📫 How to reach me **dev.josephfantuzzi@gmail.com**
 
-- ⚡ Fun fact **I am really interested in Terra Blockchain Development and aspire to be a Full-Time Developer on Terra in the future.**
+- ⚡ Fun fact **I am really interested in Blockchain Development and aspire to be a Full-Time Smart Contract Developer in the future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
