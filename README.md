@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> I'm Joseph Fantuzzi! </h1>
+<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"> I'm Joseph Fantuzzi! </h1>
 <h3 align="center">A passionate Full Stack Web Developer and Blockchain Development Enthusiast from Pennsylvania, USA.</h3>
 
 - 🔭 I’m currently learning Full Stack Web Development at **Bloom Institute of Technology**
