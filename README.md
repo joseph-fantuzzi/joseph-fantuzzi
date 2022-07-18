@@ -1,17 +1,17 @@
 <h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"> I'm Joseph Fantuzzi! </h1>
-<h3 align="center">A passionate Full Stack Web Developer and Blockchain Development Enthusiast from Pennsylvania, USA.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer and Software Engineer from Pennsylvania, USA.</h3>
 
-- 🔭 I’m currently learning Full Stack Web Development at **Bloom Institute of Technology**
+- 🔭 I recently graduated from **Bloom Institute of Technology** as a Full-Stack Web Developer
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Data Science Skills**
 
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-fantuzzi&layout=compact&border_radius=1em&title_color=blue" /></p>
 
-- 👨‍💻 My work in progress Portfolio Website https://github.com/joseph-fantuzzi/portfolio-website
+- 👨‍💻 My work in progress Portfolio Website: https://joseph-fantuzzi.vercel.app/
 
-- 📫 How to reach me **dev.josephfantuzzi@gmail.com**
+- 📫 How to reach me: **dev.josephfantuzzi@gmail.com**
 
-- ⚡ Fun fact **I am really interested in Blockchain Development and aspire to be a Full Stack Smart Contract Developer in the future.**
+- ⚡ Fun fact: **I am interested in Blockchain technology and would love to learn Web3 Development when given the chance!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
