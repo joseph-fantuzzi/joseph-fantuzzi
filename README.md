@@ -7,7 +7,7 @@
 
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-fantuzzi&layout=compact&border_radius=1em&title_color=blue" /></p>
 
-- 👨‍💻 My work in progress Portfolio Website: https://joseph-fantuzzi.vercel.app/
+- 👨‍💻 My work in progress Portfolio Website: https://www.josephfantuzzi.dev
 
 - 📫 How to reach me: **dev.josephfantuzzi@gmail.com**
 
