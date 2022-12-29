@@ -7,7 +7,7 @@ Full-Stack Developer | Software Engineer
 I started my coding journey near the end of 2021, attended Bloom Institute of Technology for Full-Stack Web Development in the first half of 2022, and am now working on side projects to enhance my skills and grow my credentials as a software developer.
 
 * 🌍  I'm based in Pennsylvania
-* 🖥️  See my portfolio at [JF](http://josephfantuzzi.dev)
+* 🖥️  See my portfolio at [josephfantuzzi.dev](http://josephfantuzzi.dev)
 * 🧠  I'm learning Python and Django
 * ⚡  I am able to solve the 2x2 through 7x7 Rubik's cubes, and can solve a standard 3x3 Rubik's cube in under 45 seconds.
 
