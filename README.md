@@ -4,7 +4,7 @@ Hi 👋 My name is Joseph Fantuzzi
 Full-Stack Software Engineer
 ----------------------------------------
 
-I started my coding journey near the end of 2021, attended Bloom Institute of Technology for Full-Stack Web Development in the first half of 2022, and am now working on projects to enhance my skills and grow my credentials as a software engineer. Currently, I am working on a project with a team which is an upcoming revolutionary AI-powered tool that empowers agile teams with AI-driven user stories, named Sprixl. Also, I am currently looking for a Full-Stack or Front-End Engineer position.
+I started my coding journey near the end of 2021, attended Bloom Institute of Technology for Full-Stack Web Development in the first half of 2022, and am now working at Ellucian as a Software Engineer I on the Insights team. Also, I am working on a project with a team which is an upcoming software tool that empowers agile teams with auto-estimated issues, named Sprixl.
 
 * 🌍  I'm based in Pennsylvania.
 * 🖥️  See my portfolio at [josephfantuzzi.dev](http://josephfantuzzi.dev).
